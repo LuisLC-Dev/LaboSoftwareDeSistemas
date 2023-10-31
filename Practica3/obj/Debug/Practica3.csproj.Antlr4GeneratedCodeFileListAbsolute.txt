@@ -1,0 +1,6 @@
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramLexer.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramParser.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramListener.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramBaseListener.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramVisitor.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramBaseVisitor.cs

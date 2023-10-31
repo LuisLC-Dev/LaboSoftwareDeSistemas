@@ -1,0 +1,79 @@
+C:\Users\lopez\source\repos\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\lopez\source\repos\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\lopez\source\repos\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\Practica3.Properties.Resources.resources
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\Practica3.SicxeForm.resources
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\Practica3.csproj.GenerateResource.cache
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\lopez\source\repos\Practica3\Practica3\bin\Debug\Antlr4.Runtime.dll
+C:\Users\lopez\source\repos\Practica3\Practica3\bin\Debug\Antlr4.Runtime.xml
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\sicxeGramLexer.cs
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\sicxeGramParser.cs
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\sicxeGramListener.cs
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\sicxeGramBaseListener.cs
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\sicxeGramVisitor.cs
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\sicxeGramBaseVisitor.cs
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\Practica3.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\lopez\source\repos\Practica3\Practica3\obj\Debug\Practica3.csproj.CopyComplete
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\bin\Debug\Antlr4.Runtime.dll
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\bin\Debug\Antlr4.Runtime.xml
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\Practica3.csprojAssemblyReference.cache
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\sicxeGramLexer.cs
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\sicxeGramParser.cs
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\sicxeGramListener.cs
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\sicxeGramBaseListener.cs
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\sicxeGramVisitor.cs
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\sicxeGramBaseVisitor.cs
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\Practica3.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\Practica3.Properties.Resources.resources
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\Practica3.SicxeForm.resources
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\Practica3.csproj.GenerateResource.cache
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\Practica3.csproj.CopyComplete
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\alexe\OneDrive\Escritorio\Laboratorio Practica 3 y Avance 4\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\bin\Debug\Antlr4.Runtime.dll
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\bin\Debug\Antlr4.Runtime.xml
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\sicxeGramLexer.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\sicxeGramParser.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\sicxeGramListener.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\sicxeGramBaseListener.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\sicxeGramVisitor.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\sicxeGramBaseVisitor.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\Practica3.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\Practica3.Properties.Resources.resources
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\Practica3.SicxeForm.resources
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\Practica3.csproj.GenerateResource.cache
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\Practica3.csproj.CopyComplete
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\Practica3.pdb
+C:\Users\lopez\Desktop\asdasdasd\Practica3\Practica3\obj\Debug\Practica3.csprojAssemblyReference.cache
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\bin\Debug\Practica3.exe
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\bin\Debug\Practica3.pdb
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\bin\Debug\Antlr4.Runtime.dll
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\bin\Debug\Antlr4.Runtime.xml
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramLexer.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramParser.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramListener.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramBaseListener.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramVisitor.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\sicxeGramBaseVisitor.cs
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\Practica3.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\Practica3.Properties.Resources.resources
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\Practica3.SicxeForm.resources
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\Practica3.csproj.GenerateResource.cache
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\Practica3.csproj.CopyComplete
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\Practica3.exe
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\Practica3.pdb
+C:\Users\lopez\Desktop\asdasdasd\Practica4\Practica3\obj\Debug\Practica3.csprojAssemblyReference.cache
